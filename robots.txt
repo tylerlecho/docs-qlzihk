@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-rama4j.pulaucuan.com/sitemap.xml
